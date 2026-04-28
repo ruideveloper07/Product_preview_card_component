@@ -45,8 +45,8 @@ body {
     font-size: 0.8em;
     font-weight: 300;
     color: var(--secondary-color);
-    letter-spacing: 5px;
-    text-transform: uppercase;
+    letter-spacing: 5px; /* Increased letter spacing for a more elegant look */
+    text-transform: uppercase; /* Uppercase for a more refined appearance */
     margin-bottom: 10px;
 }
 .card-right h3 {
